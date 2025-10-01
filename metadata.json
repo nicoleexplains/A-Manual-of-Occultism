@@ -1,0 +1,5 @@
+{
+  "name": "Digital Grimoire",
+  "description": "An interactive web application exploring the occult sciences of Astrology, Numerology, and Palmistry, based on the classic 'A Manual of Occultism'. Includes a Gemini-powered mystic for interpretations.",
+  "requestFramePermissions": []
+}
